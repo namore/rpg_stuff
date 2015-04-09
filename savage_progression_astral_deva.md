@@ -10,7 +10,7 @@ This is an update. Everything works as written in Savage Species,
 except as noted here.
 
 Quick Changes
-~~~~~~~~~~~~~
+-------------
 
  - Astral Devas do *not* become large at any point
  - Astral Devas are *not* immune to electricity
@@ -19,6 +19,9 @@ Quick Changes
  - Astral Devas loose the polymorph spell, but gain Change Shape (Su)
    at Level 6
  - Damage Reduction is 5/Evil or 10/Evil instead of 5/+1 or 10/+1
+
+Level Progression
+-----------------
 
 ECL | HD | Feats | Nat | Str | Dex | Con | Int | Wis | Cha 
 ----|----|-------|-----|-----|-----|-----|-----|-----|-----
@@ -45,12 +48,12 @@ ECL | HD | Feats | Nat | Str | Dex | Con | Int | Wis | Cha
 ----|----|-------|-----|-----|-----|-----|-----|-----|----
 
 Spell-Like Abilities
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Spell-Like abilities are very different in 3.5. Only the maximum
 frequency of use is given here. Refer to Savage Species for details.
 
-Lesser Deva Powers:
+### Lesser Deva Powers:
 
  - At Will:
   - Aid
@@ -65,7 +68,7 @@ Lesser Deva Powers:
   - Cure Light Wounds
   - See Invisibility
 
-Medium Deva Powers:
+### Medium Deva Powers:
 
  - At Will:
   - Discern Lies
@@ -73,7 +76,7 @@ Medium Deva Powers:
   - Holy Smite
   - Plane Shift
 
-Greater Deva Powers:
+### Greater Deva Powers:
 
  - At Will:
   - Holy Aura
