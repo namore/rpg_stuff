@@ -1,22 +1,24 @@
 Astral Deva Savage Progression
 ==============================
 
-Savage Species already has a Savage Progression for the Astral Deva.
+Savage Species already has a savage progression for the Astral Deva.
 This progression, however, is not up to date with the revised third
 edition (3.5). Further, it contains some oddities (such as large
-size).
+size), which were not even part of 3.0.
 
 This is an update. Everything works as written in Savage Species,
-except as noted here.
+except as noted here. If you follow this savage progression class all
+the way to 20, you are exactly an Astral Deva as described in the
+Monster Manual I (including the errata).
 
 Quick Changes
 -------------
 
  - Astral Devas do *not* become large at any point
  - Astral Devas are *not* immune to electricity
- - Astral Devas gain dexterity bonuses, see table below above
- - Astral Devas gain different spell like abilities, see list below
- - Astral Devas loose the polymorph spell, but gain Change Shape (Su)
+ - Astral Devas gain dexterity bonuses, see table below
+ - Astral Devas gain different spell-like abilities, see list below
+ - Astral Devas loose the Polymorph spell, but gain Change Shape (Su)
    at Level 6
  - Damage Reduction is 5/Evil or 10/Evil instead of 5/+1 or 10/+1
 
@@ -72,7 +74,7 @@ frequency of use is given here. Refer to Savage Species for details.
 
  - At Will:
   - Discern Lies
-  - Dispell Evil
+  - Dispel Evil
   - Holy Smite
   - Plane Shift
 
